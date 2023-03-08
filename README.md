@@ -8,9 +8,9 @@
 </br>
 
 <a href="https://github.com/Elbarto2m/"><img title="Author" src="https://img.shields.io/badge/Author-Elbarto-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/Elbarto2m/Well"><img title="Stars" src="https://img.shields.io/github/stars/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/Elbarto2m/Well/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/Elbarto2m/Well/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AliAryanTech/Chisato-WhatsApp?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/Elbarto2m/Hanako"><img title="Stars" src="https://img.shields.io/github/stars/Elbarto2m/Hanako?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/Elbarto2m/Hanako/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Elbarto2m/Hanako?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/Elbarto2m/Hanako/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Elbarto2m/Hanako?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
