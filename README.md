@@ -48,7 +48,3 @@
 </a>
 
 </br>
-
-## Thanks To
-* [`Shinei | Whatshell`](https://github.com/LuckyYam/)
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
